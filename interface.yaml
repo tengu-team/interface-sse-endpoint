@@ -1,0 +1,4 @@
+name: sse-endpoint
+summary: |
+  Interface to transfer connection data to an SSE endpoint.
+version: 1
